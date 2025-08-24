@@ -1,5 +1,5 @@
 #Trabajo Práctico 1: Estructuras secuenciales
-#Nombre: Cristian Zuñiga 
+#Nombre: Cristian Zuñiga.
 
 """
 Ejercicio Nro 1
