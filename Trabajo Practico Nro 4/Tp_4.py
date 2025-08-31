@@ -143,8 +143,8 @@ numero = int(input("Ingrese un número: "))
 numero_invertido = 0
 
 while numero != 0:
-    digito = numero % 10            
-    numero_invertido = numero_invertido * 10 + digito
+    digito = numero % 10        #devuelve el resto (ultimo digito)    
+    numero_invertido = numero_invertido * 10 + digito #lo ubica en la posicion que corresponde con el *10
     numero = numero // 10       #elimina el numero original , sino es un bucle infinito    
 
 print(f"El número invertido es: {numero_invertido}")
