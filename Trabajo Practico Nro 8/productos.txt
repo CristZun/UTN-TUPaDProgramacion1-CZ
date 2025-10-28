@@ -1,0 +1,9 @@
+Lapicera,120.5,30
+Goma,50,80
+Regla,90.5,60
+escuadra,100.0,20
+probando,40.0,20
+probando2,50.0,15
+probando3,30,10
+probando4,75.0,120
+cocacola,10.0,50
