@@ -1,0 +1,8 @@
+Juan;Perez;53365;8
+Maria;Lopez;55654;10
+Pablo;Gomez;58999;6
+Andres;Fabre;55555;9
+Fernando;Molla;55123;5
+Matias;Fernandez;55789;3
+Agustin;Leguia;56521;6
+Martin;Manzano;53658;4
